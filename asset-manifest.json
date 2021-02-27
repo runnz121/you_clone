@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/runnz121/you_clone/static/css/main.36619463.chunk.css",
+    "main.js": "/runnz121/you_clone/static/js/main.0de58d8d.chunk.js",
+    "main.js.map": "/runnz121/you_clone/static/js/main.0de58d8d.chunk.js.map",
+    "runtime-main.js": "/runnz121/you_clone/static/js/runtime-main.ed17c170.js",
+    "runtime-main.js.map": "/runnz121/you_clone/static/js/runtime-main.ed17c170.js.map",
+    "static/js/2.61a7b21b.chunk.js": "/runnz121/you_clone/static/js/2.61a7b21b.chunk.js",
+    "static/js/2.61a7b21b.chunk.js.map": "/runnz121/you_clone/static/js/2.61a7b21b.chunk.js.map",
+    "index.html": "/runnz121/you_clone/index.html",
+    "static/css/main.36619463.chunk.css.map": "/runnz121/you_clone/static/css/main.36619463.chunk.css.map",
+    "static/js/2.61a7b21b.chunk.js.LICENSE.txt": "/runnz121/you_clone/static/js/2.61a7b21b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed17c170.js",
+    "static/js/2.61a7b21b.chunk.js",
+    "static/css/main.36619463.chunk.css",
+    "static/js/main.0de58d8d.chunk.js"
+  ]
+}
